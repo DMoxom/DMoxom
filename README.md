@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi, I'm Daniel 👋
+
+<img src="https://github.com/DMoxom/DMoxom/assets/99496248/734e3667-9e88-4779-b48f-216b6d2dc4dc" alt="banner that says Daniel Moxom - graduate computer games programmer. first-class honours degree">
+
+
 
 <!--
 **DMoxom/DMoxom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
